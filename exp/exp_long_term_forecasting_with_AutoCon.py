@@ -207,7 +207,7 @@ class Exp_Long_Term_Forecast_with_AutoCon(Exp_Basic):
         best_model_path = path + '/' + 'checkpoint.pth'
         self.model.load_state_dict(torch.load(best_model_path))
 
-        return self.model
+        return self.model, vali_loss
 
     def test(self, setting, test=0):
         test_data, test_loader = self._get_data(flag='test')

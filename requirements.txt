@@ -7,3 +7,4 @@ statsmodels
 einops
 sympy
 numba  
+optuna
