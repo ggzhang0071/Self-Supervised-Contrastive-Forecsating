@@ -280,16 +280,7 @@ class Dataset_Custom(Dataset):
 
         self.month_label = df_stamp['month'] = df_stamp.date.apply(lambda row: row.month, 1).values
 
-        index=0
-        s_begin = index
-        s_end = s_begin + self.seq_len
-        r_begin = s_end - self.label_len
-        r_end = r_begin + self.label_len + self.pred_len
 
-        seq_x = self.data_x[s_begin:s_end]
-        seq_y = self.data_y[r_begin:r_end]
-        seq_x_mark = self.data_stamp[s_begin:s_end]
-        seq_y_mark = self.data_stamp[r_begin:r_end]
 
 
     def __getitem__(self, index):

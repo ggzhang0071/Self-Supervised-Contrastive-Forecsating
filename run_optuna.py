@@ -120,17 +120,18 @@ def main():
 
      
         args = parser.parse_args()
-        with open(args.config, 'r') as fid:
-            param_config=json.load(fid)
-        if trial is not  None and param_config!=None:
-            for param_name, attributes in param_config.items():
-                param_type = attributes['type']
-                if param_type == 'float':
-                    # 更新 args 中对应的属性
-                    setattr(args, param_name, trial.suggest_float(param_name, attributes['low'], attributes['high']))
-                elif param_type == 'int':
-                    setattr(args, param_name, trial.suggest_int(param_name, attributes['low'], attributes['high']))
-                # 如果有其他类型，可以在这里添加处理逻辑
+        if args.config!="":
+            with open(args.config, 'r') as fid:
+                param_config=json.load(fid)
+            if trial is not  None and param_config!=None:
+                for param_name, attributes in param_config.items():
+                    param_type = attributes['type']
+                    if param_type == 'float':
+                        # 更新 args 中对应的属性
+                        setattr(args, param_name, trial.suggest_float(param_name, attributes['low'], attributes['high']))
+                    elif param_type == 'int':
+                        setattr(args, param_name, trial.suggest_int(param_name, attributes['low'], attributes['high']))
+                    # 如果有其他类型，可以在这里添加处理逻辑
 
         args.use_gpu = True if torch.cuda.is_available() and args.use_gpu else False
 
@@ -155,24 +156,11 @@ def main():
             results = []
             for ii in range(args.itr):
                 # setting record of experiments
-                setting = '{}_{}_{}_{}_ft{}_sl{}_ll{}_pl{}_dm{}_nh{}_el{}_dl{}_df{}_fc{}_eb{}_dt{}_{}_{}'.format(
-                    args.task_name,
-                    args.model_id,
-                    args.model,
-                    args.data,
-                    args.features,
-                    args.seq_len,
-                    args.label_len,
-                    args.pred_len,
-                    args.d_model,
-                    args.n_heads,
-                    args.e_layers,
-                    args.d_layers,
-                    args.d_ff,
-                    args.factor,
-                    args.embed,
-                    args.distil,
-                    args.des, ii)
+                setting = f"{args.task_name}_{args.model_id}_{args.model}_{args.data}\
+                    _ft{args.features}_sl{args.seq_len}_ll{args.label_len}_pl{args.pred_len}\
+                    _dm{args.d_model}_nh{args.n_heads}_el{args.e_layers}_dl{args.d_layers}_df{args.d_ff}\
+                    _fc{args.factor}_eb{args.embed}_dt{args.distil}_{args.des}_bs{args.batch_size}_lr{args.learning_rate}_lambda{args.AutoCon_lambda}_{ii}"
+
 
                 exp = Exp(args)  # set experiments
                 print('>>>>>>>start training : {}>>>>>>>>>>>>>>>>>>>>>>>>>>'.format(setting))
@@ -194,24 +182,12 @@ def main():
                 f', MSPE:{m_mspe:.4f}+-{mspe_ph:.5f}, SHAPEDTW:{m_shape_e:.4f}+-{shape_e_ph:.5f}, TEMPDTW:{m_temporal_e:.4f}+-{temporal_e_ph:.5f}')
         else:
             ii = 0
-            setting = '{}_{}_{}_{}_ft{}_sl{}_ll{}_pl{}_dm{}_nh{}_el{}_dl{}_df{}_fc{}_eb{}_dt{}_{}_{}'.format(
-                args.task_name,
-                args.model_id,
-                args.model,
-                args.data,
-                args.features,
-                args.seq_len,
-                args.label_len,
-                args.pred_len,
-                args.d_model,
-                args.n_heads,
-                args.e_layers,
-                args.d_layers,
-                args.d_ff,
-                args.factor,
-                args.embed,
-                args.distil,
-                args.des, ii)
+            setting = f"{args.task_name}_{args.model_id}_{args.model}_{args.data}\
+                _ft{args.features}_sl{args.seq_len}_ll{args.label_len}_pl{args.pred_len}\
+                    _dm{args.d_model}_nh{args.n_heads}_el{args.e_layers}_dl{args.d_layers}\
+                        _df{args.d_ff}_fc{args.factor}_eb{args.embed}_dt{args.distil}_{args.des}\
+                            _bs{args.batch_size}_lr{args.learning_rate}_lambda{args.AutoCon_lambda}_{ii}"
+
 
             exp = Exp(args)  # set experiments
             print('>>>>>>>testing : {}<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<'.format(setting))
