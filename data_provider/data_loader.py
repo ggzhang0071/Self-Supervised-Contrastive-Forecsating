@@ -229,8 +229,7 @@ class Dataset_Custom(Dataset):
 
     def __read_data__(self):
         self.scaler = StandardScaler()
-        df_raw = pd.read_csv(os.path.join(self.root_path,
-                                          self.data_path))
+        df_raw = pd.read_csv(os.path.join(self.root_path,self.data_path))
 
         '''
         df_raw.columns: ['date', ...(other features), target feature]
@@ -280,6 +279,18 @@ class Dataset_Custom(Dataset):
         self.full_data_stamp = data_stamp
 
         self.month_label = df_stamp['month'] = df_stamp.date.apply(lambda row: row.month, 1).values
+
+        index=0
+        s_begin = index
+        s_end = s_begin + self.seq_len
+        r_begin = s_end - self.label_len
+        r_end = r_begin + self.label_len + self.pred_len
+
+        seq_x = self.data_x[s_begin:s_end]
+        seq_y = self.data_y[r_begin:r_end]
+        seq_x_mark = self.data_stamp[s_begin:s_end]
+        seq_y_mark = self.data_stamp[r_begin:r_end]
+
 
     def __getitem__(self, index):
         s_begin = index

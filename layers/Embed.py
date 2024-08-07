@@ -40,6 +40,9 @@ class TokenEmbedding(nn.Module):
     def forward(self, x):
         x = self.tokenConv(x.permute(0, 2, 1)).transpose(1, 2)
         return x
+    
+
+
 
 
 class FixedEmbedding(nn.Module):

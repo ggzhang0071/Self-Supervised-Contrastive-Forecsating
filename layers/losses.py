@@ -202,6 +202,7 @@ class AutoCon(nn.Module):
 
         B, I, D = features.shape
         feature_idxs = torch.rand(B, self.seq_len).argsort(-1)[:, :self.seq_len//3].to(features.get_device())
+
         selected_features = torch.gather(features, 1, feature_idxs.unsqueeze(-1).repeat(1, 1, D))
 
         local_loss = self.local_contrastive_loss(selected_features, feature_idxs)
