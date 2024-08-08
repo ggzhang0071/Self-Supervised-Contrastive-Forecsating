@@ -109,206 +109,6 @@ mse:6.488184452056885, mae:2.2204484939575195
 long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
 mse:3.4614369869232178, mae:1.5420351028442383
 
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl3_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl756_ll48_pl5_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl756_ll48_pl5_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl7_dm8_nh8_el2_dl1_df8_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl7_dm8_nh8_el2_dl1_df8_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl7_dm8_nh8_el2_dl1_df8_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl7_dm8_nh8_el2_dl1_df8_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl7_dm8_nh8_el2_dl1_df8_fc1_ebtimeF_dtTrue_Exp_0  
-mse:nan, mae:nan
-
-long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftMS_sl336_ll48_pl7_dm8_nh8_el2_dl1_df8_fc1_ebtimeF_dtTrue_Exp_1  
-mse:nan, mae:nan
 
 long_term_forecast_ICLR24_CRV_AutoConNet_beigang_ftS_sl756_ll48_pl5_dm4_nh8_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
 mse:3.7865426540374756, mae:1.600185513496399
@@ -987,4 +787,1204 @@ mse:10.218025207519531, mae:2.4817512035369873
 
 long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs32_lr0.009622144046689277_lambda0.4127049307008654_1  
 mse:2.684579849243164, mae:1.3378610610961914
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs16_lr0.002233846471622445_lambda0.5830217867208839_0  
+mse:6.01302433013916, mae:1.9452989101409912
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs16_lr0.002233846471622445_lambda0.5830217867208839_1  
+mse:7.871373653411865, mae:2.244729518890381
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs63_lr0.01672252230964357_lambda0.5012532757513197_0  
+mse:10.571041107177734, mae:2.4316205978393555
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs63_lr0.01672252230964357_lambda0.5012532757513197_1  
+mse:4.713882923126221, mae:1.696984887123108
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs36_lr0.024114498391071004_lambda0.4349295126640843_0  
+mse:11.044517517089844, mae:2.69417667388916
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs36_lr0.024114498391071004_lambda0.4349295126640843_1  
+mse:9.371384620666504, mae:2.4678115844726562
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs23_lr0.010399565093584938_lambda0.16673059537720156_0  
+mse:16.290775299072266, mae:3.365540027618408
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs23_lr0.010399565093584938_lambda0.16673059537720156_1  
+mse:5.564377784729004, mae:1.928245186805725
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs26_lr0.013657250736322547_lambda0.12498692404812099_0  
+mse:8.797331809997559, mae:2.3592612743377686
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs26_lr0.013657250736322547_lambda0.12498692404812099_1  
+mse:54.28886032104492, mae:6.824524402618408
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs36_lr0.015729775396403176_lambda0.5298310067273061_0  
+mse:8.000789642333984, mae:2.264338970184326
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs36_lr0.015729775396403176_lambda0.5298310067273061_1  
+mse:5.916897773742676, mae:2.044365882873535
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs64_lr0.02921738356424273_lambda0.7030374953924_0  
+mse:56.78767395019531, mae:6.538112163543701
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs64_lr0.02921738356424273_lambda0.7030374953924_1  
+mse:74.03191375732422, mae:7.918970584869385
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs44_lr0.003469483486269768_lambda0.8547234577994889_0  
+mse:7.674604892730713, mae:2.249189615249634
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs44_lr0.003469483486269768_lambda0.8547234577994889_1  
+mse:21.680164337158203, mae:4.435593128204346
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs47_lr0.0010852859221915957_lambda0.9025230737156895_0  
+mse:6.608388900756836, mae:2.097623109817505
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs47_lr0.0010852859221915957_lambda0.9025230737156895_1  
+mse:12.07258129119873, mae:3.09565806388855
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.008112084589057036_lambda0.8222742137347216_0  
+mse:22.72492218017578, mae:4.156906604766846
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.008112084589057036_lambda0.8222742137347216_1  
+mse:39.42304229736328, mae:5.666046619415283
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs51_lr0.0060062380852247445_lambda0.3131348135965649_0  
+mse:12.660296440124512, mae:3.052767276763916
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs51_lr0.0060062380852247445_lambda0.3131348135965649_1  
+mse:10.967110633850098, mae:2.9025747776031494
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs39_lr0.01894365752783737_lambda0.7392325948241005_0  
+mse:7.43474817276001, mae:2.2127981185913086
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs39_lr0.01894365752783737_lambda0.7392325948241005_1  
+mse:73.32848358154297, mae:8.050630569458008
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs33_lr0.023089821417846115_lambda0.30130498524139754_0  
+mse:27.3304386138916, mae:4.503560543060303
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs33_lr0.023089821417846115_lambda0.30130498524139754_1  
+mse:17.189983367919922, mae:3.5450081825256348
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.01242504769250222_lambda0.7520088081727869_0  
+mse:8.857528686523438, mae:2.295736074447632
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.01242504769250222_lambda0.7520088081727869_1  
+mse:35.80554962158203, mae:5.399311065673828
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs56_lr0.007168528645653144_lambda0.7017865828217191_0  
+mse:15.869325637817383, mae:3.5025570392608643
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs56_lr0.007168528645653144_lambda0.7017865828217191_1  
+mse:11.128235816955566, mae:2.674471378326416
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs44_lr0.004224414837138903_lambda0.8363420285256968_0  
+mse:9.150834083557129, mae:2.4993345737457275
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs44_lr0.004224414837138903_lambda0.8363420285256968_1  
+mse:25.695161819458008, mae:4.795406341552734
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs50_lr0.011487464007080407_lambda0.014371172081885875_0  
+mse:8.340591430664062, mae:2.1928517818450928
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs50_lr0.011487464007080407_lambda0.014371172081885875_1  
+mse:11.969986915588379, mae:2.7171170711517334
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs58_lr0.004746224960731921_lambda0.9594253847021373_0  
+mse:9.792953491210938, mae:2.6550936698913574
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs58_lr0.004746224960731921_lambda0.9594253847021373_1  
+mse:10.353222846984863, mae:2.619990825653076
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs56_lr0.007481590083608008_lambda0.7005555451156968_0  
+mse:16.91399574279785, mae:3.6243057250976562
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs56_lr0.007481590083608008_lambda0.7005555451156968_1  
+mse:11.76293659210205, mae:2.7377567291259766
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs46_lr0.0032654478975589502_lambda0.7876542899436705_0  
+mse:7.509904861450195, mae:2.235992193222046
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs46_lr0.0032654478975589502_lambda0.7876542899436705_1  
+mse:23.686527252197266, mae:4.449737071990967
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs59_lr0.012082169025202937_lambda0.653306043966783_0  
+mse:7.89553689956665, mae:2.088143825531006
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs59_lr0.012082169025202937_lambda0.653306043966783_1  
+mse:6.465846538543701, mae:2.0983083248138428
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs37_lr0.0068586509111058114_lambda0.353688876559445_0  
+mse:6.8022871017456055, mae:2.0179169178009033
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs37_lr0.0068586509111058114_lambda0.353688876559445_1  
+mse:4.760087490081787, mae:1.8055962324142456
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs47_lr0.029720578938178987_lambda0.4585606321807827_0  
+mse:17.870220184326172, mae:3.6635069847106934
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs47_lr0.029720578938178987_lambda0.4585606321807827_1  
+mse:29.195663452148438, mae:4.861791133880615
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.016038663189354888_lambda0.14395734672506091_0  
+mse:5.169246673583984, mae:1.8980085849761963
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.016038663189354888_lambda0.14395734672506091_1  
+mse:20.372085571289062, mae:4.006794452667236
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs40_lr0.0017710234203347744_lambda0.10170712055916398_0  
+mse:7.39576530456543, mae:2.2038559913635254
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs40_lr0.0017710234203347744_lambda0.10170712055916398_1  
+mse:11.247179985046387, mae:2.7825920581817627
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs31_lr0.013069866132248236_lambda0.8927788629035546_0  
+mse:7.5719804763793945, mae:2.354933977127075
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs31_lr0.013069866132248236_lambda0.8927788629035546_1  
+mse:11.495630264282227, mae:2.740478992462158
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs20_lr0.01617886949448639_lambda0.17015023076841862_0  
+mse:31.117382049560547, mae:4.446956157684326
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs20_lr0.01617886949448639_lambda0.17015023076841862_1  
+mse:32.166748046875, mae:4.775852203369141
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs40_lr0.024560800521230875_lambda0.8372975862713744_0  
+mse:10.334356307983398, mae:2.58195161819458
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs40_lr0.024560800521230875_lambda0.8372975862713744_1  
+mse:53.62176513671875, mae:6.891972064971924
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs52_lr0.0053528558988690435_lambda0.44119373628438646_0  
+mse:11.109930992126465, mae:2.82468581199646
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs52_lr0.0053528558988690435_lambda0.44119373628438646_1  
+mse:8.307250022888184, mae:2.3980374336242676
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs37_lr0.013486593571305907_lambda0.3804785016651249_0  
+mse:7.198967456817627, mae:2.171926259994507
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs37_lr0.013486593571305907_lambda0.3804785016651249_1  
+mse:16.647319793701172, mae:3.648285388946533
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs25_lr0.012598630661822829_lambda0.9631136350576233_0  
+mse:18.54088592529297, mae:3.6104793548583984
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs25_lr0.012598630661822829_lambda0.9631136350576233_1  
+mse:14.054566383361816, mae:3.016706943511963
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs64_lr0.007547254174415866_lambda0.5969835294766572_0  
+mse:20.15707778930664, mae:3.9691436290740967
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs64_lr0.007547254174415866_lambda0.5969835294766572_1  
+mse:21.727508544921875, mae:4.296889781951904
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs22_lr0.008629610204253972_lambda0.6906132088392867_0  
+mse:17.50551986694336, mae:3.476642608642578
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs22_lr0.008629610204253972_lambda0.6906132088392867_1  
+mse:15.396005630493164, mae:3.2847182750701904
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs27_lr0.02097248515675959_lambda0.2807325487900949_0  
+mse:15.644773483276367, mae:3.162172555923462
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs27_lr0.02097248515675959_lambda0.2807325487900949_1  
+mse:10.96413516998291, mae:2.816195011138916
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs30_lr0.01055191980553787_lambda0.9835315959409908_0  
+mse:13.765890121459961, mae:2.9076883792877197
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs30_lr0.01055191980553787_lambda0.9835315959409908_1  
+mse:13.843408584594727, mae:3.0940561294555664
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs16_lr0.002505737697780533_lambda0.6710166488431266_0  
+mse:7.380929946899414, mae:2.0988590717315674
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs16_lr0.002505737697780533_lambda0.6710166488431266_1  
+mse:7.135526657104492, mae:2.289170980453491
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs17_lr0.002076035940863737_lambda0.6931522548389263_0  
+mse:5.882112503051758, mae:1.944019079208374
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs17_lr0.002076035940863737_lambda0.6931522548389263_1  
+mse:11.744085311889648, mae:2.686485767364502
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs57_lr0.005120823153617808_lambda0.5830764275031811_0  
+mse:10.455950736999512, mae:2.780620813369751
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs57_lr0.005120823153617808_lambda0.5830764275031811_1  
+mse:8.818724632263184, mae:2.539309024810791
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs34_lr0.0015576596854551608_lambda0.004791058532116754_0  
+mse:6.670582294464111, mae:2.1113617420196533
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs34_lr0.0015576596854551608_lambda0.004791058532116754_1  
+mse:3.9183218479156494, mae:1.5860332250595093
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs47_lr0.005390087036881401_lambda0.32833216890749867_0  
+mse:10.288115501403809, mae:2.7167036533355713
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs47_lr0.005390087036881401_lambda0.32833216890749867_1  
+mse:6.946160793304443, mae:2.1007020473480225
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs16_lr0.019222298011095804_lambda0.7498782869146554_0  
+mse:6.739251613616943, mae:2.0658841133117676
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs16_lr0.019222298011095804_lambda0.7498782869146554_1  
+mse:87.69126892089844, mae:8.640902519226074
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs46_lr0.00917622302730405_lambda0.5575370769104371_0  
+mse:34.39472579956055, mae:5.044468402862549
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs46_lr0.00917622302730405_lambda0.5575370769104371_1  
+mse:47.08755874633789, mae:6.221372604370117
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs16_lr0.0011128114934709217_lambda0.689233520841051_0  
+mse:9.62311840057373, mae:2.5487849712371826
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs16_lr0.0011128114934709217_lambda0.689233520841051_1  
+mse:11.627458572387695, mae:2.8818488121032715
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs21_lr0.004219967056217477_lambda0.7955119259803292_0  
+mse:9.129663467407227, mae:2.343940258026123
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs21_lr0.004219967056217477_lambda0.7955119259803292_1  
+mse:16.326330184936523, mae:3.3773176670074463
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs25_lr0.003188744922257363_lambda0.6535376736733802_0  
+mse:6.925276756286621, mae:2.069195032119751
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs25_lr0.003188744922257363_lambda0.6535376736733802_1  
+mse:7.036538600921631, mae:2.2534046173095703
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs16_lr0.0071590523798214945_lambda0.5136406648910586_0  
+mse:8.948653221130371, mae:2.4346446990966797
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs16_lr0.0071590523798214945_lambda0.5136406648910586_1  
+mse:3.839301586151123, mae:1.5604583024978638
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs30_lr0.0034706852845675885_lambda0.30597432180524625_0  
+mse:16.003854751586914, mae:3.3331844806671143
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs30_lr0.0034706852845675885_lambda0.30597432180524625_1  
+mse:11.056862831115723, mae:2.7783069610595703
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs35_lr0.010806588165236122_lambda0.2183979435489632_0  
+mse:5.857641220092773, mae:2.07356595993042
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs35_lr0.010806588165236122_lambda0.2183979435489632_1  
+mse:4.6837663650512695, mae:1.7716889381408691
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs31_lr0.006435223067178355_lambda0.3852610716718678_0  
+mse:7.210648536682129, mae:2.143559694290161
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs31_lr0.006435223067178355_lambda0.3852610716718678_1  
+mse:9.312768936157227, mae:2.465953826904297
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs27_lr0.003051439507955298_lambda0.27939591277638404_0  
+mse:6.637552261352539, mae:2.017146587371826
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs27_lr0.003051439507955298_lambda0.27939591277638404_1  
+mse:24.291370391845703, mae:4.3695502281188965
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.010387953103872444_lambda0.47779733184231576_0  
+mse:8.887569427490234, mae:2.246802568435669
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.010387953103872444_lambda0.47779733184231576_1  
+mse:69.88358306884766, mae:7.818533897399902
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs36_lr0.026940283794000944_lambda0.4340212856322177_0  
+mse:13.627542495727539, mae:2.9661831855773926
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs36_lr0.026940283794000944_lambda0.4340212856322177_1  
+mse:10.364091873168945, mae:2.5868546962738037
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs35_lr0.0285454921520078_lambda0.4150927867428099_0  
+mse:25.666507720947266, mae:4.474889278411865
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs35_lr0.0285454921520078_lambda0.4150927867428099_1  
+mse:28.720684051513672, mae:4.543304443359375
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs38_lr0.02942585736976262_lambda0.3499435360615075_0  
+mse:15.61483383178711, mae:3.154452323913574
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs38_lr0.02942585736976262_lambda0.3499435360615075_1  
+mse:8.544205665588379, mae:2.5433151721954346
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs46_lr0.021219445342347123_lambda0.2714768929519042_0  
+mse:15.38010025024414, mae:2.9884297847747803
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs46_lr0.021219445342347123_lambda0.2714768929519042_1  
+mse:8.421465873718262, mae:2.3475143909454346
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.017269739188294296_lambda0.5106144874202949_0  
+mse:13.488382339477539, mae:2.86977219581604
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.017269739188294296_lambda0.5106144874202949_1  
+mse:20.468523025512695, mae:4.0401716232299805
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.015573144749562444_lambda0.094851628749334_0  
+mse:11.228347778320312, mae:2.611882448196411
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.015573144749562444_lambda0.094851628749334_1  
+mse:25.00106430053711, mae:4.496359348297119
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs51_lr0.01729283595686969_lambda0.08177474615704095_0  
+mse:10.973712921142578, mae:2.559429883956909
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs51_lr0.01729283595686969_lambda0.08177474615704095_1  
+mse:7.429116725921631, mae:2.1686038970947266
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.014150591869033008_lambda0.1339647136340198_0  
+mse:9.89913272857666, mae:2.4538888931274414
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.014150591869033008_lambda0.1339647136340198_1  
+mse:29.490875244140625, mae:4.895898342132568
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.014434134479124172_lambda0.06082209452493367_0  
+mse:10.132723808288574, mae:2.4830245971679688
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.014434134479124172_lambda0.06082209452493367_1  
+mse:28.49516487121582, mae:4.810229778289795
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs50_lr0.017930814137393905_lambda0.0010299097790265055_0  
+mse:16.496562957763672, mae:3.146897792816162
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs50_lr0.017930814137393905_lambda0.0010299097790265055_1  
+mse:17.014198303222656, mae:3.2463834285736084
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.015101266914670198_lambda0.0705613564604671_0  
+mse:19.806774139404297, mae:3.648057460784912
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.015101266914670198_lambda0.0705613564604671_1  
+mse:3.794778823852539, mae:1.520106554031372
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.01476649053038112_lambda0.06877996219022442_0  
+mse:19.05607032775879, mae:3.5636444091796875
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.01476649053038112_lambda0.06877996219022442_1  
+mse:3.8096489906311035, mae:1.5205546617507935
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs39_lr0.015445425243036725_lambda0.20898565929339666_0  
+mse:15.807600021362305, mae:3.0991437435150146
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs39_lr0.015445425243036725_lambda0.20898565929339666_1  
+mse:30.68736457824707, mae:5.022946357727051
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs54_lr0.020198332006817383_lambda0.17600970921730885_0  
+mse:22.014934539794922, mae:3.7714626789093018
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs54_lr0.020198332006817383_lambda0.17600970921730885_1  
+mse:41.445716857910156, mae:5.752809524536133
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.023286863810559777_lambda0.05447365436417671_0  
+mse:6.588257312774658, mae:2.1217055320739746
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.023286863810559777_lambda0.05447365436417671_1  
+mse:7.427978038787842, mae:2.2524561882019043
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs49_lr0.012123581185207868_lambda0.11745673972129034_0  
+mse:8.295148849487305, mae:2.1827995777130127
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs49_lr0.012123581185207868_lambda0.11745673972129034_1  
+mse:14.307852745056152, mae:3.2596871852874756
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs44_lr0.017091520641442058_lambda0.22356738978424354_0  
+mse:10.980331420898438, mae:2.5456228256225586
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs44_lr0.017091520641442058_lambda0.22356738978424354_1  
+mse:19.47932243347168, mae:3.646397829055786
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs40_lr0.01531046401544276_lambda0.038952442080246195_0  
+mse:5.784841537475586, mae:2.066871404647827
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs40_lr0.01531046401544276_lambda0.038952442080246195_1  
+mse:66.98853302001953, mae:7.414243698120117
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs33_lr0.01861350652163315_lambda0.09816601316046264_0  
+mse:15.78742790222168, mae:3.2582428455352783
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs33_lr0.01861350652163315_lambda0.09816601316046264_1  
+mse:112.82447814941406, mae:10.171093940734863
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs54_lr0.023292606851711587_lambda0.15199835604316608_0  
+mse:30.80692481994629, mae:4.518062114715576
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs54_lr0.023292606851711587_lambda0.15199835604316608_1  
+mse:59.02632141113281, mae:6.9534077644348145
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs47_lr0.016196290417605216_lambda0.5212926450710945_0  
+mse:8.466707229614258, mae:2.50811767578125
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs47_lr0.016196290417605216_lambda0.5212926450710945_1  
+mse:23.318010330200195, mae:3.7320921421051025
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs44_lr0.01407689967750783_lambda0.05947815306679802_0  
+mse:9.087226867675781, mae:2.3345344066619873
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs44_lr0.01407689967750783_lambda0.05947815306679802_1  
+mse:28.38361167907715, mae:4.520700931549072
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.012188684632159845_lambda0.18432100631693663_0  
+mse:14.690796852111816, mae:3.0487844944000244
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.012188684632159845_lambda0.18432100631693663_1  
+mse:4.125202655792236, mae:1.5891547203063965
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs38_lr0.01220376133599097_lambda0.17853248032956534_0  
+mse:6.886117935180664, mae:2.1328632831573486
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs38_lr0.01220376133599097_lambda0.17853248032956534_1  
+mse:5.564706325531006, mae:1.9536778926849365
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.016651193059864695_lambda0.11916779697507893_0  
+mse:5.1740875244140625, mae:1.903464913368225
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.016651193059864695_lambda0.11916779697507893_1  
+mse:21.989566802978516, mae:4.172652244567871
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs32_lr0.013126568973107076_lambda0.23888205275538918_0  
+mse:5.713554859161377, mae:2.0200438499450684
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs32_lr0.013126568973107076_lambda0.23888205275538918_1  
+mse:6.540036678314209, mae:2.118588924407959
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs48_lr0.01162409230484901_lambda0.3227190389743354_0  
+mse:8.199951171875, mae:2.1321942806243896
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs48_lr0.01162409230484901_lambda0.3227190389743354_1  
+mse:123.26152038574219, mae:10.554688453674316
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs45_lr0.019852537292095095_lambda0.18379456567512437_0  
+mse:13.271392822265625, mae:2.854494094848633
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs45_lr0.019852537292095095_lambda0.18379456567512437_1  
+mse:8.994885444641113, mae:2.2161195278167725
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.008821247210221116_lambda0.14726576511168393_0  
+mse:6.699136257171631, mae:2.023125171661377
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.008821247210221116_lambda0.14726576511168393_1  
+mse:12.033393859863281, mae:2.9208197593688965
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs37_lr0.008067391396739503_lambda0.09475065819404471_0  
+mse:6.503967761993408, mae:2.013702630996704
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs37_lr0.008067391396739503_lambda0.09475065819404471_1  
+mse:5.704560279846191, mae:1.939530849456787
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.009605863684287952_lambda0.25409059989754024_0  
+mse:9.874066352844238, mae:2.425598621368408
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.009605863684287952_lambda0.25409059989754024_1  
+mse:8.402387619018555, mae:2.348966360092163
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.013517588661737254_lambda0.15031592221113804_0  
+mse:16.618549346923828, mae:3.2825937271118164
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.013517588661737254_lambda0.15031592221113804_1  
+mse:3.9210431575775146, mae:1.540855884552002
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.014894893490711986_lambda0.03167438966699818_0  
+mse:12.08984375, mae:2.7338695526123047
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.014894893490711986_lambda0.03167438966699818_1  
+mse:10.024642944335938, mae:2.5577709674835205
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs39_lr0.011146030645002605_lambda0.14982315568922_0  
+mse:11.568360328674316, mae:2.653421640396118
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs39_lr0.011146030645002605_lambda0.14982315568922_1  
+mse:39.006858825683594, mae:5.98105001449585
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs46_lr0.01372907034404352_lambda0.20061661752146714_0  
+mse:8.909038543701172, mae:2.350277900695801
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs46_lr0.01372907034404352_lambda0.20061661752146714_1  
+mse:14.141412734985352, mae:2.8181543350219727
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs29_lr0.012932244823216865_lambda0.30981514275593686_0  
+mse:11.350103378295898, mae:2.6982908248901367
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs29_lr0.012932244823216865_lambda0.30981514275593686_1  
+mse:53.19752883911133, mae:6.619715690612793
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.009738372917243504_lambda0.14245624689705144_0  
+mse:6.189766883850098, mae:1.9562888145446777
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.009738372917243504_lambda0.14245624689705144_1  
+mse:14.55860424041748, mae:3.2997872829437256
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs37_lr0.006097794258908707_lambda0.14714716295190342_0  
+mse:7.087564945220947, mae:2.034144878387451
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs37_lr0.006097794258908707_lambda0.14714716295190342_1  
+mse:5.5350141525268555, mae:1.9326794147491455
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs39_lr0.009740258697025281_lambda0.12795086788138438_0  
+mse:7.503627777099609, mae:2.171902656555176
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs39_lr0.009740258697025281_lambda0.12795086788138438_1  
+mse:10.353976249694824, mae:2.6962153911590576
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs35_lr0.00442818742998527_lambda0.023476071816049465_0  
+mse:14.637974739074707, mae:3.1343584060668945
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs35_lr0.00442818742998527_lambda0.023476071816049465_1  
+mse:19.174659729003906, mae:3.666097402572632
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs62_lr0.008712214295605352_lambda0.07395179909721057_0  
+mse:24.871681213378906, mae:4.4151387214660645
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs62_lr0.008712214295605352_lambda0.07395179909721057_1  
+mse:5.932624340057373, mae:1.9021327495574951
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs56_lr0.008748127253852144_lambda0.06831732749817172_0  
+mse:21.77037239074707, mae:4.123831748962402
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs56_lr0.008748127253852144_lambda0.06831732749817172_1  
+mse:14.731290817260742, mae:3.0221469402313232
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs62_lr0.007748472484453601_lambda0.16399363436994358_0  
+mse:19.961288452148438, mae:3.961484432220459
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs62_lr0.007748472484453601_lambda0.16399363436994358_1  
+mse:5.641437530517578, mae:1.847458004951477
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs64_lr0.00781624737624206_lambda0.1617943604898176_0  
+mse:21.534500122070312, mae:4.103818416595459
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs64_lr0.00781624737624206_lambda0.1617943604898176_1  
+mse:22.933279037475586, mae:4.409071445465088
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs61_lr0.010103026527441914_lambda0.11098883469570468_0  
+mse:33.23344802856445, mae:5.088950157165527
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs61_lr0.010103026527441914_lambda0.11098883469570468_1  
+mse:3.3246543407440186, mae:1.5262508392333984
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs58_lr0.0070393156383778245_lambda0.08088943029043642_0  
+mse:16.31218910217285, mae:3.582136392593384
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs58_lr0.0070393156383778245_lambda0.08088943029043642_1  
+mse:16.422138214111328, mae:3.366431951522827
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs61_lr0.011378928332051667_lambda0.909368299262473_0  
+mse:7.67374324798584, mae:2.0731146335601807
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs61_lr0.011378928332051667_lambda0.909368299262473_1  
+mse:4.890782356262207, mae:1.7967876195907593
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs62_lr0.00868024236714629_lambda0.1889243439547147_0  
+mse:24.69700050354004, mae:4.40014123916626
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs62_lr0.00868024236714629_lambda0.1889243439547147_1  
+mse:6.277007579803467, mae:1.9169999361038208
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs59_lr0.009044423574756506_lambda0.19905392184468304_0  
+mse:25.72755241394043, mae:4.522712707519531
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs59_lr0.009044423574756506_lambda0.19905392184468304_1  
+mse:38.056236267089844, mae:5.871830463409424
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.010559366760229963_lambda0.24735408515960627_0  
+mse:5.8645524978637695, mae:1.905990719795227
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.010559366760229963_lambda0.24735408515960627_1  
+mse:15.95108699798584, mae:3.4797890186309814
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs53_lr0.012382021410012843_lambda0.012745086750569845_0  
+mse:9.450386047363281, mae:2.3641514778137207
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs53_lr0.012382021410012843_lambda0.012745086750569845_1  
+mse:13.50880241394043, mae:3.261810541152954
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.010542084736468121_lambda0.24491515320406038_0  
+mse:5.872793197631836, mae:1.9073724746704102
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.010542084736468121_lambda0.24491515320406038_1  
+mse:15.92468547821045, mae:3.476519823074341
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs45_lr0.008581186919910345_lambda0.0516725971524887_0  
+mse:28.332664489746094, mae:4.602860450744629
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs45_lr0.008581186919910345_lambda0.0516725971524887_1  
+mse:6.50219202041626, mae:2.0461106300354004
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs48_lr0.01329580179014461_lambda0.12250141680282889_0  
+mse:9.741228103637695, mae:2.3660943508148193
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs48_lr0.01329580179014461_lambda0.12250141680282889_1  
+mse:155.88072204589844, mae:12.053470611572266
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.006512045417008396_lambda0.2746168300762815_0  
+mse:6.940192699432373, mae:2.037923574447632
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.006512045417008396_lambda0.2746168300762815_1  
+mse:18.85807228088379, mae:3.663999319076538
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs45_lr0.011529640871186894_lambda0.08157161351147345_0  
+mse:8.7661714553833, mae:2.3101871013641357
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs45_lr0.011529640871186894_lambda0.08157161351147345_1  
+mse:58.0877685546875, mae:6.801260471343994
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs40_lr0.009618229929617627_lambda0.22359503368132114_0  
+mse:5.899863243103027, mae:1.9952009916305542
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs40_lr0.009618229929617627_lambda0.22359503368132114_1  
+mse:20.295679092407227, mae:3.761983871459961
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs44_lr0.005769884414450391_lambda0.18499255618242225_0  
+mse:13.8994140625, mae:3.230890989303589
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs44_lr0.005769884414450391_lambda0.18499255618242225_1  
+mse:20.931509017944336, mae:4.3627495765686035
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs64_lr0.00838918752166963_lambda0.13638011207051293_0  
+mse:24.676362991333008, mae:4.389603614807129
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs64_lr0.00838918752166963_lambda0.13638011207051293_1  
+mse:25.71897315979004, mae:4.652197360992432
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.014740951316408683_lambda0.10525553798291215_0  
+mse:19.007963180541992, mae:3.558457136154175
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.014740951316408683_lambda0.10525553798291215_1  
+mse:3.8115572929382324, mae:1.520707607269287
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs56_lr0.01446405892865103_lambda0.033670712763464034_0  
+mse:7.339205741882324, mae:2.1564462184906006
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs56_lr0.01446405892865103_lambda0.033670712763464034_1  
+mse:13.519051551818848, mae:3.2569475173950195
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.01621512489158821_lambda0.10365574483679901_0  
+mse:22.58116912841797, mae:3.9567553997039795
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.01621512489158821_lambda0.10365574483679901_1  
+mse:3.7771177291870117, mae:1.5286861658096313
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs38_lr0.01616165302014073_lambda0.0973547052377014_0  
+mse:7.01551628112793, mae:2.165583372116089
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs38_lr0.01616165302014073_lambda0.0973547052377014_1  
+mse:3.094270706176758, mae:1.3980849981307983
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs18_lr0.014885721330637222_lambda0.07184397677663165_0  
+mse:19.200353622436523, mae:3.769468307495117
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs18_lr0.014885721330637222_lambda0.07184397677663165_1  
+mse:18.329517364501953, mae:3.4489667415618896
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.017883967366799678_lambda0.1084843026799209_0  
+mse:27.8243408203125, mae:4.489950180053711
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.017883967366799678_lambda0.1084843026799209_1  
+mse:3.8901679515838623, mae:1.5729776620864868
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.018085321008040934_lambda0.11001910266217119_0  
+mse:28.523990631103516, mae:4.555759429931641
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.018085321008040934_lambda0.11001910266217119_1  
+mse:3.9128050804138184, mae:1.5803313255310059
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs40_lr0.018133339764582358_lambda0.1071858987488645_0  
+mse:6.285666465759277, mae:2.174792528152466
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs40_lr0.018133339764582358_lambda0.1071858987488645_1  
+mse:85.88147735595703, mae:8.500112533569336
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs44_lr0.019291556809033245_lambda0.03904000025453408_0  
+mse:13.331950187683105, mae:2.774419069290161
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs44_lr0.019291556809033245_lambda0.03904000025453408_1  
+mse:15.266724586486816, mae:3.13834547996521
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs36_lr0.018086608794950162_lambda0.003090904673340278_0  
+mse:8.381304740905762, mae:2.3312370777130127
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs36_lr0.018086608794950162_lambda0.003090904673340278_1  
+mse:6.852449893951416, mae:2.1710269451141357
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs47_lr0.021155300188596588_lambda0.05095768726098094_0  
+mse:12.18721866607666, mae:3.035590887069702
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll60_pl3                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs47_lr0.021155300188596588_lambda0.05095768726098094_1  
+mse:9.057981491088867, mae:2.4853343963623047
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs18_lr0.0176635965489186_lambda0.5170620365389941_0  
+mse:9.98511028289795, mae:2.38390851020813
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs18_lr0.0176635965489186_lambda0.5170620365389941_1  
+mse:13.77856159210205, mae:2.905238628387451
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs22_lr0.028595722656784877_lambda0.38683510364229756_0  
+mse:4.650521755218506, mae:1.73074209690094
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs22_lr0.028595722656784877_lambda0.38683510364229756_1  
+mse:1579.0692138671875, mae:34.15811538696289
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs64_lr0.018373823510750523_lambda0.8826331636100433_0  
+mse:11.682816505432129, mae:2.6594696044921875
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs64_lr0.018373823510750523_lambda0.8826331636100433_1  
+mse:14.08851146697998, mae:3.048861026763916
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs33_lr0.02682074203900193_lambda0.8503358455046974_0  
+mse:36.412837982177734, mae:4.5792317390441895
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs33_lr0.02682074203900193_lambda0.8503358455046974_1  
+mse:319.3438415527344, mae:16.4725284576416
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs56_lr0.025151685563214617_lambda0.7843381667041055_0  
+mse:32.04591369628906, mae:4.931304931640625
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs56_lr0.025151685563214617_lambda0.7843381667041055_1  
+mse:10.09048843383789, mae:2.7097103595733643
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs36_lr0.0194883052411112_lambda0.43203060255360876_0  
+mse:7.7733235359191895, mae:2.270681142807007
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs36_lr0.0194883052411112_lambda0.43203060255360876_1  
+mse:8.096656799316406, mae:2.151113271713257
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs63_lr0.02763811997239661_lambda0.4998884185462023_0  
+mse:80.67696380615234, mae:8.387101173400879
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs63_lr0.02763811997239661_lambda0.4998884185462023_1  
+mse:120.77291870117188, mae:9.781319618225098
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs37_lr0.0010669077122632132_lambda0.6076202710674363_0  
+mse:5.299389362335205, mae:1.8644391298294067
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs37_lr0.0010669077122632132_lambda0.6076202710674363_1  
+mse:7.607280254364014, mae:2.3527817726135254
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs23_lr0.013050178166750113_lambda0.24894662425659086_0  
+mse:4.706945419311523, mae:1.7583142518997192
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs23_lr0.013050178166750113_lambda0.24894662425659086_1  
+mse:14.109819412231445, mae:3.2831828594207764
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs46_lr0.01860206306683004_lambda0.4246726081233663_0  
+mse:15.651948928833008, mae:3.3579275608062744
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs46_lr0.01860206306683004_lambda0.4246726081233663_1  
+mse:4.265344619750977, mae:1.722603678703308
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs26_lr0.008182779407719349_lambda0.03897479072431423_0  
+mse:4.8310675621032715, mae:1.7441948652267456
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs26_lr0.008182779407719349_lambda0.03897479072431423_1  
+mse:7.555896759033203, mae:2.250253200531006
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs26_lr0.007923330772508844_lambda0.04211170047648566_0  
+mse:4.899373531341553, mae:1.7576149702072144
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs26_lr0.007923330772508844_lambda0.04211170047648566_1  
+mse:7.588341236114502, mae:2.2560393810272217
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs28_lr0.010204794062342698_lambda0.08110527612748605_0  
+mse:7.00193977355957, mae:2.195460081100464
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs28_lr0.010204794062342698_lambda0.08110527612748605_1  
+mse:7.011285305023193, mae:2.2489969730377197
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs46_lr0.01104155535329953_lambda0.20844651327032315_0  
+mse:8.10928726196289, mae:2.2985239028930664
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs46_lr0.01104155535329953_lambda0.20844651327032315_1  
+mse:5.40052604675293, mae:1.8463948965072632
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs16_lr0.004694736947517415_lambda0.24382907638610332_0  
+mse:9.830904960632324, mae:2.476938486099243
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs16_lr0.004694736947517415_lambda0.24382907638610332_1  
+mse:11.73393440246582, mae:2.9322609901428223
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs29_lr0.012977011032207116_lambda0.22026130847591252_0  
+mse:7.538724899291992, mae:2.2014641761779785
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs29_lr0.012977011032207116_lambda0.22026130847591252_1  
+mse:5.158815860748291, mae:1.8728172779083252
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.006353433186699826_lambda0.11317997207142352_0  
+mse:5.251065731048584, mae:1.8481882810592651
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.006353433186699826_lambda0.11317997207142352_1  
+mse:19.788244247436523, mae:3.965604543685913
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.014747871212786383_lambda0.2991952093896016_0  
+mse:8.172259330749512, mae:2.3668859004974365
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.014747871212786383_lambda0.2991952093896016_1  
+mse:46.60504913330078, mae:6.116054058074951
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs56_lr0.003642860480526557_lambda0.1445225286927122_0  
+mse:6.264963150024414, mae:2.059666156768799
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs56_lr0.003642860480526557_lambda0.1445225286927122_1  
+mse:13.157140731811523, mae:2.9598212242126465
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs52_lr0.023345860470667907_lambda0.6499330574270099_0  
+mse:33.159603118896484, mae:5.0727057456970215
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs52_lr0.023345860470667907_lambda0.6499330574270099_1  
+mse:4.417320251464844, mae:1.6211880445480347
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.006895158550134913_lambda0.321796131998991_0  
+mse:5.282077312469482, mae:1.8587578535079956
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.006895158550134913_lambda0.321796131998991_1  
+mse:9.711446762084961, mae:2.5972208976745605
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs40_lr0.006137273264086752_lambda0.3568711685268143_0  
+mse:5.279394149780273, mae:1.847679853439331
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs40_lr0.006137273264086752_lambda0.3568711685268143_1  
+mse:7.267597675323486, mae:2.1868033409118652
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs45_lr0.001081396569944125_lambda0.13911720823093443_0  
+mse:6.028143882751465, mae:1.9803135395050049
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs45_lr0.001081396569944125_lambda0.13911720823093443_1  
+mse:21.83154296875, mae:4.163778305053711
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs49_lr0.0013941441484067452_lambda0.1563076265619448_0  
+mse:5.286418437957764, mae:1.861972451210022
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs49_lr0.0013941441484067452_lambda0.1563076265619448_1  
+mse:4.367477893829346, mae:1.7318122386932373
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.0044246562082709915_lambda0.12678296412338125_0  
+mse:4.758788108825684, mae:1.7193065881729126
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.0044246562082709915_lambda0.12678296412338125_1  
+mse:9.63821792602539, mae:2.58758282661438
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs33_lr0.00388478305082033_lambda0.028850978855257836_0  
+mse:5.902834892272949, mae:1.9696896076202393
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs33_lr0.00388478305082033_lambda0.028850978855257836_1  
+mse:4.840880393981934, mae:1.8813058137893677
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs40_lr0.002877065918380002_lambda0.31590471368507206_0  
+mse:4.408245086669922, mae:1.6514753103256226
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs40_lr0.002877065918380002_lambda0.31590471368507206_1  
+mse:15.957779884338379, mae:3.5634121894836426
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs52_lr0.008711438894117313_lambda0.16457576643997118_0  
+mse:7.602361679077148, mae:2.2775323390960693
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs52_lr0.008711438894117313_lambda0.16457576643997118_1  
+mse:23.582387924194336, mae:4.3873491287231445
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs36_lr0.005861344364387521_lambda0.9758993223361137_0  
+mse:5.485631942749023, mae:1.9009149074554443
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs36_lr0.005861344364387521_lambda0.9758993223361137_1  
+mse:8.756072044372559, mae:2.2926292419433594
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.0026392177543893467_lambda0.4906099821862673_0  
+mse:7.128368854522705, mae:2.2308528423309326
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.0026392177543893467_lambda0.4906099821862673_1  
+mse:12.275958061218262, mae:3.090205430984497
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs48_lr0.010703640645216844_lambda0.30449902683562347_0  
+mse:11.725193977355957, mae:2.868849277496338
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs48_lr0.010703640645216844_lambda0.30449902683562347_1  
+mse:8.342108726501465, mae:2.437161445617676
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.006440994037318132_lambda0.1078489509985881_0  
+mse:9.017298698425293, mae:2.3493432998657227
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.006440994037318132_lambda0.1078489509985881_1  
+mse:20.754894256591797, mae:4.237576007843018
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs38_lr0.005360428682494508_lambda0.09749818420963333_0  
+mse:5.239185333251953, mae:1.8254575729370117
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs38_lr0.005360428682494508_lambda0.09749818420963333_1  
+mse:16.680456161499023, mae:3.4243428707122803
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs32_lr0.006754031146987439_lambda0.16331392382606286_0  
+mse:5.670252799987793, mae:1.943403959274292
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs32_lr0.006754031146987439_lambda0.16331392382606286_1  
+mse:6.221566200256348, mae:1.9749037027359009
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.0010383929344034617_lambda0.3725509018219678_0  
+mse:5.57874059677124, mae:1.9206682443618774
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.0010383929344034617_lambda0.3725509018219678_1  
+mse:5.863153457641602, mae:1.888368010520935
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs46_lr0.009400363912498322_lambda0.0032598866244022418_0  
+mse:6.213064670562744, mae:2.0242807865142822
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs46_lr0.009400363912498322_lambda0.0032598866244022418_1  
+mse:5.780526638031006, mae:1.9295402765274048
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs50_lr0.002759277929009209_lambda0.21105477605557293_0  
+mse:6.654445171356201, mae:2.1375231742858887
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs50_lr0.002759277929009209_lambda0.21105477605557293_1  
+mse:5.646985054016113, mae:1.8450474739074707
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs56_lr0.020869486201374902_lambda0.09678812984340904_0  
+mse:20.21949005126953, mae:3.8941266536712646
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs56_lr0.020869486201374902_lambda0.09678812984340904_1  
+mse:3.4397666454315186, mae:1.5277565717697144
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs39_lr0.007332310787857563_lambda0.28591353392880947_0  
+mse:5.962642669677734, mae:1.961177110671997
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs39_lr0.007332310787857563_lambda0.28591353392880947_1  
+mse:6.55162239074707, mae:1.8997410535812378
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs35_lr0.029973954469943914_lambda0.5857697873017537_0  
+mse:12.24167251586914, mae:2.8721134662628174
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs35_lr0.029973954469943914_lambda0.5857697873017537_1  
+mse:6.995196342468262, mae:2.115549325942993
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs45_lr0.014947854899825402_lambda0.4212902165223641_0  
+mse:7.75830602645874, mae:2.30116605758667
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs45_lr0.014947854899825402_lambda0.4212902165223641_1  
+mse:23.947439193725586, mae:4.097677230834961
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.004663046727369138_lambda0.10713626003119237_0  
+mse:7.616274356842041, mae:2.251232862472534
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs43_lr0.004663046727369138_lambda0.10713626003119237_1  
+mse:11.29265308380127, mae:2.9012768268585205
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.006545355635562911_lambda0.12888266932599754_0  
+mse:5.1665849685668945, mae:1.8361042737960815
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.006545355635562911_lambda0.12888266932599754_1  
+mse:9.141684532165527, mae:2.4680144786834717
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs44_lr0.0115695378514402_lambda0.05934978222513836_0  
+mse:11.231496810913086, mae:2.7184958457946777
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs44_lr0.0115695378514402_lambda0.05934978222513836_1  
+mse:7.5244221687316895, mae:2.191617012023926
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs48_lr0.0023732397544603636_lambda0.1890417879197113_0  
+mse:4.861668109893799, mae:1.7693593502044678
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs48_lr0.0023732397544603636_lambda0.1890417879197113_1  
+mse:3.411769151687622, mae:1.5178377628326416
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs38_lr0.0042262548062817085_lambda0.0025046878860913863_0  
+mse:5.394279956817627, mae:1.8512765169143677
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs38_lr0.0042262548062817085_lambda0.0025046878860913863_1  
+mse:14.126656532287598, mae:3.1033356189727783
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs60_lr0.0075953573117138835_lambda0.752767948529778_0  
+mse:5.734673500061035, mae:1.8938990831375122
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs60_lr0.0075953573117138835_lambda0.752767948529778_1  
+mse:4.161680698394775, mae:1.6380784511566162
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs35_lr0.00912833206814134_lambda0.26623374048132653_0  
+mse:5.58664083480835, mae:1.897223949432373
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs35_lr0.00912833206814134_lambda0.26623374048132653_1  
+mse:14.132164001464844, mae:3.2268974781036377
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs31_lr0.016060281639556445_lambda0.07020507673017115_0  
+mse:5.503968238830566, mae:1.9741196632385254
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs31_lr0.016060281639556445_lambda0.07020507673017115_1  
+mse:53.12607192993164, mae:6.688708305358887
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.012469895317068677_lambda0.247364043837353_0  
+mse:18.87881088256836, mae:3.587522268295288
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.012469895317068677_lambda0.247364043837353_1  
+mse:6.03455114364624, mae:1.893707513809204
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs52_lr0.012739999421154346_lambda0.24094301825148645_0  
+mse:18.068912506103516, mae:3.5804755687713623
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs52_lr0.012739999421154346_lambda0.24094301825148645_1  
+mse:39.08193588256836, mae:5.584874629974365
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.009755717155017812_lambda0.18214344308270275_0  
+mse:7.948938369750977, mae:2.332338809967041
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.009755717155017812_lambda0.18214344308270275_1  
+mse:6.12847375869751, mae:1.8634960651397705
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.009907135573064885_lambda0.33850424639559673_0  
+mse:8.39112377166748, mae:2.392698287963867
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.009907135573064885_lambda0.33850424639559673_1  
+mse:6.133687496185303, mae:1.8682589530944824
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs37_lr0.011629209297741626_lambda0.3470238626209874_0  
+mse:14.524675369262695, mae:3.112637758255005
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs37_lr0.011629209297741626_lambda0.3470238626209874_1  
+mse:3.3728485107421875, mae:1.4836015701293945
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs46_lr0.016330335766529938_lambda0.4693325920852523_0  
+mse:11.59386157989502, mae:2.680218458175659
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs46_lr0.016330335766529938_lambda0.4693325920852523_1  
+mse:9.260995864868164, mae:2.394226312637329
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs40_lr0.013964966921712682_lambda0.4067800557173149_0  
+mse:10.604711532592773, mae:2.772146701812744
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs40_lr0.013964966921712682_lambda0.4067800557173149_1  
+mse:9.88780403137207, mae:2.6675615310668945
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs20_lr0.010167937013170382_lambda0.1863194869145541_0  
+mse:7.933821201324463, mae:2.3035712242126465
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs20_lr0.010167937013170382_lambda0.1863194869145541_1  
+mse:6.259562969207764, mae:1.986959457397461
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs34_lr0.008280604378782941_lambda0.3320591049225047_0  
+mse:7.360920429229736, mae:2.144275188446045
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs34_lr0.008280604378782941_lambda0.3320591049225047_1  
+mse:7.605055332183838, mae:2.2246129512786865
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs45_lr0.012198164074858991_lambda0.2313565880010941_0  
+mse:7.654417037963867, mae:2.2629928588867188
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs45_lr0.012198164074858991_lambda0.2313565880010941_1  
+mse:5.254995346069336, mae:1.8212409019470215
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.013726132732089516_lambda0.2676640553261719_0  
+mse:9.8384428024292, mae:2.638826608657837
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.013726132732089516_lambda0.2676640553261719_1  
+mse:21.11162757873535, mae:3.9120616912841797
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs38_lr0.009890201246911772_lambda0.38379019298813893_0  
+mse:10.258291244506836, mae:2.670605182647705
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs38_lr0.009890201246911772_lambda0.38379019298813893_1  
+mse:10.05828857421875, mae:2.6118695735931396
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs38_lr0.009674126979157297_lambda0.38998626253218804_0  
+mse:9.60405158996582, mae:2.586068868637085
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs38_lr0.009674126979157297_lambda0.38998626253218804_1  
+mse:17.477313995361328, mae:3.48403000831604
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs36_lr0.010815123577135983_lambda0.5602449745071921_0  
+mse:3.885155439376831, mae:1.5543631315231323
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs36_lr0.010815123577135983_lambda0.5602449745071921_1  
+mse:6.680233955383301, mae:2.021348714828491
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs39_lr0.0053249427670875515_lambda0.32279758171793993_0  
+mse:6.485296249389648, mae:2.0034844875335693
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs39_lr0.0053249427670875515_lambda0.32279758171793993_1  
+mse:7.4236650466918945, mae:2.0253748893737793
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs47_lr0.008668990227663452_lambda0.19769411911671952_0  
+mse:7.550398826599121, mae:2.257960319519043
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs47_lr0.008668990227663452_lambda0.19769411911671952_1  
+mse:10.603266716003418, mae:2.4473259449005127
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.002055390618562697_lambda0.27779735618202434_0  
+mse:5.547830104827881, mae:1.9129468202590942
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs41_lr0.002055390618562697_lambda0.27779735618202434_1  
+mse:20.433361053466797, mae:3.988701343536377
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs44_lr0.007415879482421556_lambda0.456979325758684_0  
+mse:5.87414026260376, mae:1.952531099319458
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs44_lr0.007415879482421556_lambda0.456979325758684_1  
+mse:10.218018531799316, mae:2.6752781867980957
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs30_lr0.010341997508831914_lambda0.5298507630645143_0  
+mse:4.812521457672119, mae:1.7233675718307495
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs30_lr0.010341997508831914_lambda0.5298507630645143_1  
+mse:6.978364944458008, mae:2.1596033573150635
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs25_lr0.01007450562398586_lambda0.6608180938865612_0  
+mse:5.140644550323486, mae:1.868664026260376
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs25_lr0.01007450562398586_lambda0.6608180938865612_1  
+mse:8.981271743774414, mae:2.3256900310516357
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs30_lr0.012167875045401115_lambda0.5117874228406764_0  
+mse:4.529843807220459, mae:1.6726858615875244
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs30_lr0.012167875045401115_lambda0.5117874228406764_1  
+mse:6.07589864730835, mae:2.0315704345703125
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs28_lr0.013952821997474938_lambda0.5478458731218138_0  
+mse:7.979069232940674, mae:2.3050668239593506
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs28_lr0.013952821997474938_lambda0.5478458731218138_1  
+mse:5.081291675567627, mae:1.8601717948913574
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs32_lr0.011591831892184027_lambda0.504523886342065_0  
+mse:9.13082218170166, mae:2.4842405319213867
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs32_lr0.011591831892184027_lambda0.504523886342065_1  
+mse:8.038824081420898, mae:2.3443055152893066
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs30_lr0.012659393609037716_lambda0.5262509292548654_0  
+mse:4.457831382751465, mae:1.6663545370101929
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs30_lr0.012659393609037716_lambda0.5262509292548654_1  
+mse:5.885812282562256, mae:2.0013866424560547
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs28_lr0.01091178997216209_lambda0.467262540421482_0  
+mse:8.451638221740723, mae:2.40067720413208
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs28_lr0.01091178997216209_lambda0.467262540421482_1  
+mse:8.81922721862793, mae:2.550180673599243
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs23_lr0.009598491914011239_lambda0.6357122140961837_0  
+mse:5.757945537567139, mae:1.9345355033874512
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs23_lr0.009598491914011239_lambda0.6357122140961837_1  
+mse:8.67769718170166, mae:2.5410468578338623
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs34_lr0.008024837806601357_lambda0.3707649060521339_0  
+mse:7.729204177856445, mae:2.1821727752685547
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs34_lr0.008024837806601357_lambda0.3707649060521339_1  
+mse:7.507456302642822, mae:2.232417345046997
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs37_lr0.012216218125814492_lambda0.4287339610065397_0  
+mse:17.35059928894043, mae:3.4082038402557373
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs37_lr0.012216218125814492_lambda0.4287339610065397_1  
+mse:3.4382412433624268, mae:1.501375436782837
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs26_lr0.013577233777007824_lambda0.44955279942510484_0  
+mse:3.828927755355835, mae:1.5633984804153442
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs26_lr0.013577233777007824_lambda0.44955279942510484_1  
+mse:10.607359886169434, mae:2.670858144760132
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.008951392341182463_lambda0.39080331212078145_0  
+mse:7.4351725578308105, mae:2.2155754566192627
+
+long_term_forecast_ICLR24_CRV_AutoConNet_beigang                    _ftS_sl756_ll48_pl5                    _dm4_nh8_el1_dl1_df4                    _fc1_ebtimeF_dtTrue_Exp_bs42_lr0.008951392341182463_lambda0.39080331212078145_1  
+mse:11.297154426574707, mae:2.7550716400146484
 
