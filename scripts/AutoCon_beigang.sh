@@ -21,7 +21,7 @@ fi
 
 
 
-nohup python   run_optuna.py --AutoCon  --AutoCon_multiscales 336 --AutoCon_wnorm Mean --freq d  --AutoCon_lambda 0.001  --d_model 4 --d_ff 4 --e_layers 1 --target $target --c_out 1 --root_path $root_path --data_path $data_path --model_id ICLR24_CRV --model AutoConNet --data beigang --seq_len 756 --label_len 60 --pred_len 3 --enc_in $enc_in --des 'Exp' --itr $nitr --batch_size 64 --learning_rate 0.0003 --feature $feature --target $target \
+ python   run_optuna.py --AutoCon  --AutoCon_multiscales 336 --AutoCon_wnorm Mean --freq d  --AutoCon_lambda 0.001  --d_model 4 --d_ff 4 --e_layers 1 --target $target --c_out 1 --root_path $root_path --data_path $data_path --model_id ICLR24_CRV --model AutoConNet --data beigang --seq_len 756 --label_len 60 --pred_len 3 --enc_in $enc_in --des 'Exp' --itr $nitr --batch_size 64 --learning_rate 0.0003 --feature $feature --target $target \
 --config param_config_long_term_forecast.json 
 
 nohup python -u run_optuna.py --AutoCon  --AutoCon_multiscales 720 --AutoCon_wnorm ReVIN  --AutoCon_lambda 1.0  --d_model 4 --d_ff 4 --e_layers 1 --target $target --c_out 1 --root_path $root_path  --data_path $data_path --model_id ICLR24_CRV --model AutoConNet --data beigang --seq_len 756 --label_len 48 --pred_len 5 --enc_in $enc_in --des 'Exp' --itr $nitr --batch_size 128 --learning_rate 0.0001 --lradj fixed --feature $feature  --target $target \

@@ -270,6 +270,7 @@ class Exp_Long_Term_Forecast_with_AutoCon(Exp_Basic):
             os.makedirs(folder_path)
 
         mae, mse, rmse, mape, mspe = metric(preds, trues)
+        # 这里的变量 preds， trues 是没有经过尺度逆变换的
         # dilate_e, shape_e, temporal_e = shape_metric(preds, trues)  # These metrics take a long time to calculate.
         dilate_e, shape_e,temporal_e  = 0.0,  0.0,  0.0
 

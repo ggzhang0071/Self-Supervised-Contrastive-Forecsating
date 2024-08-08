@@ -48,4 +48,4 @@ For reproducibility, we provide [logs](https://github.com/junwoopark92/Self-Supe
   year={2024}
 }
 ```
-目前单变量S 是收敛的，但是多变量是不收敛的
+目前单变量S 是收敛的，但是多变量MS是不收敛的, 现在要放弃MS 这个
